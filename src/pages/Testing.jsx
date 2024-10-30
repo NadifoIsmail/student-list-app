@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 
 export default function Testing({ mastude }) {
   return mastude.map((stude) => (
@@ -17,4 +17,4 @@ export default function Testing({ mastude }) {
       </div>
     </div>
   ));
-}
+} */

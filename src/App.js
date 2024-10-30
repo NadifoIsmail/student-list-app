@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState } from "react";
 import Home from "./pages/Home";
-import Testing from "./pages/Testing"
+//import Testing from "./pages/Testing"
 
 function App() {
   const [students] = useState([
@@ -52,7 +52,7 @@ function App() {
   return (
     <div>
       <Home students={students} />
-      <Testing mastude={students} />
+      {/* <Testing mastude={students} /> */}
     </div>
   );
 }
